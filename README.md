@@ -14,9 +14,11 @@ Esse guia tem por objetivo homogenizar os códigos desenvolvidos facilitando o e
 ### ComponentsXamarin
 Componentes para utilização em aplicações mobile que utilizem a tecnologia Xamarin Forms. 
 
+[Commands to push and delete your packege to Local Server](https://github.com/devhunes/docs/blob/master/HunesXamarin/components.md#commands-to-push-and-delete-your-packege-to-local-server)
+
 Project | Last Version | Support | Developer
 :--- | :---: | :--- | :---
-HunesXamarin.Changelog | 1.0.0 | Only .Net Standard 2.0.3 | Pedro H. Moreira
+[HunesXamarin.Changelog](https://github.com/devhunes/docs/blob/master/HunesXamarin/components.md#how-to-implement-changelog-your-project) | 1.0.0 | Only .Net Standard 2.0.3 | Pedro H. Moreira
 
 ---
 
@@ -60,7 +62,7 @@ Descomplique sua venda.
       <td align="center" valign="top">
         <img width="150" height="150" src="https://github.com/peedroca.png?s=150">
         <br>
-        <a href="https://github.com/peedroca">Pedro H.</a>
+        <a href="https://github.com/peedroca">Pedro H. Moreira</a>
         <p>Contributor</p>
       </td>
       <td align="center" valign="top">
