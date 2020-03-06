@@ -11,6 +11,15 @@ Esse guia tem por objetivo homogenizar os códigos desenvolvidos facilitando o e
 
 ---
 
+### ComponentsXamarin
+Componentes para utilização em aplicações mobile que utilizem a tecnologia Xamarin Forms. 
+
+Project | Last Version | Support | Developer
+:--- | :---: | :--- | :---
+HunesXamarin.Changelog | 1.0.0 | Only .Net Standard 2.0.3 | Pedro H. Moreira
+
+---
+
 ### Pick 'N' Go
 A aplicação mobile de separação da Hunes.
 
@@ -64,3 +73,4 @@ Descomplique sua venda.
   </tbody>
 </table>
 
+<h5 align='center'>Copyright @ 2020 Hunes Tecnologia</h5>
