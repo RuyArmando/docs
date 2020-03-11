@@ -36,7 +36,8 @@ A aplicação mobile de separação da Hunes.
 ---
 
 ### Vendeu!
-Descomplique sua venda.
+Com Vendeu, sua empresa agilize o processo de forma segura, aumentando a lucratividade e potencializando seus vendedores e representantes. Sua equipe faz o pedido pelo celular e ele é enviado automaticamente para o Conectus. 
+Faça o download do [app](https://www.hunes.com.br/beta/?wpdmpro=vendeu) de força de vendas para smartphones e tablets Android!
 
 ![image](https://img.shields.io/badge/Vendeu!@Latest-v1.4.5-success)
 ![image](https://img.shields.io/badge/Vendeu!@Unrelease-v1.4.6-important) </br>
